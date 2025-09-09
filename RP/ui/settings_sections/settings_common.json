@@ -1,0 +1,14 @@
+{
+  "option_info_label_with_icon": {
+    "texture": "textures/ui/text_label_box_original"
+  },
+
+  "option_info_label_with_bulb": {
+    "texture": "textures/ui/text_label_box_original"
+  },
+
+  "option_info_label_with_image": {
+    "texture": "textures/ui/text_label_box",
+    "size": [ "100%", "100%c - 8px" ]
+  }
+}

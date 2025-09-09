@@ -1,9 +1,9 @@
 {
-  "layout_customization_main_panel/main_panel_frame": {
+  "keymapping_item/option_info_label_control": {
     "texture": "textures/ui/text_label_box_original"
   },
-
-  "layout_customization_sub_panel/background": {
+  
+  "gamepad_mapping_item/option_info_label_control": {
     "texture": "textures/ui/text_label_box_original"
   }
 }

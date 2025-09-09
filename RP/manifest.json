@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-        "description": "v1.0.0 - Pack by mittens4all and jeanmajid - MCBE Subtitles",
-        "name": "MCBE Subtitles",
-        "uuid":"371593c4-efbf-4c40-8045-47b3fe39c71d",
+        "description": "The default Minecraft graphics, now updated with stylish new textures!",
+        "name": "Minecraft texture pack",
+        "uuid":"672a510b-7522-453d-a6d9-700588943d18",
         "version": [ 1, 0, 0 ],
         "min_engine_version": [ 1, 21, 100 ]
     },
@@ -11,12 +11,12 @@
         {
             "description": "Resource Pack",
             "type": "resources",
-            "uuid": "6623d0bf-227d-4b8f-98a8-df07d83f858f",
+            "uuid": "0e6fb49a-da24-47bd-9336-878e29f6305c",
             "version": [ 1, 0, 0 ]
         }
     ],
     "metadata": {
-        "authors": [ "mittens4all", "jeanmajid" ],
+        "authors": [ "mittens4all" ],
         "license": "MIT",
         "url": "https://github.com/mittens4all/",
         "product_type": "addon"
