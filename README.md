@@ -18,7 +18,7 @@ The pack's name will show as `Minecraft texture pack`
 The in-game settings menu displays the Hide Disabled Achievements pack disguised as the Local default Minecraft texture pack.
 
 ![World Game Settings](/assets/images/hide-disabled-achievements_03.png)
-**Achievements Disabled text**
+**Achievements Disabled Text**
 `Achievements cannot be earned in this world` appears invisible above the world name.
 
 ## Author
