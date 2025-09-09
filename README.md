@@ -19,7 +19,7 @@ The in-game settings menu displays the Hide Disabled Achievements pack disguised
 
 ![World Game Settings](/assets/images/hide-disabled-achievements_03.png)
 **Achievements Disabled text**
-The text `Achievements cannot be earned in this world` that appears above the world name is not visible.
+`Achievements cannot be earned in this world` appears invisible above the world name.
 
 ## Author
 
